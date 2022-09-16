@@ -7,3 +7,7 @@
 5) Place file named epa-http.txt in Debug directory
 6) Run .exe
 7) Check Debug directory for output file
+
+Notes:
+- only handles one file at a time
+- must follow column outline format
