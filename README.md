@@ -1,6 +1,6 @@
 # HexagonMiningTakeHome
 
-1) Clone
+1) Clone master branch
 2) Build in Visual Studio
 3) Open Project Directory
 4) Open HexagonMiningTakeHome\HexagonMiningTakeHome\bin\Debug
@@ -10,4 +10,5 @@
 
 Notes:
 - only handles one file at a time
+- file name must be epa-http.txt
 - must follow column outline format
